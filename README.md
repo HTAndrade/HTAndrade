@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HTAndrade, or Hugo Andrade :D
-- 👀 I’m interested in tech skils
+- 👀 I’m studying tech skils
 - 🌱 I’m currently learning HTML / CSS / JavaScript
 
 <!---
